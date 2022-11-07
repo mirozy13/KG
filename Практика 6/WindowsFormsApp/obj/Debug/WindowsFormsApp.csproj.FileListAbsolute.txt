@@ -1,0 +1,68 @@
+H:\Study\графика 4 сем\5lab\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+H:\Study\графика 4 сем\5lab\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+H:\Study\графика 4 сем\5lab\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+H:\Study\графика 4 сем\5lab\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+H:\Study\графика 4 сем\5lab\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+H:\Study\графика 4 сем\5lab\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+H:\Study\графика 4 сем\5lab\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+H:\Study\графика 4 сем\5lab\WindowsFormsApp\bin\Debug\Tao.FreeGlut.dll
+H:\Study\графика 4 сем\5lab\WindowsFormsApp\bin\Debug\Tao.OpenGl.dll
+H:\Study\графика 4 сем\5lab\WindowsFormsApp\bin\Debug\Tao.Platform.Windows.dll
+H:\Study\графика 4 сем\5lab\WindowsFormsApp\bin\Debug\Tao.FreeGlut.xml
+H:\Study\графика 4 сем\5lab\WindowsFormsApp\bin\Debug\Tao.OpenGl.xml
+H:\Study\графика 4 сем\5lab\WindowsFormsApp\bin\Debug\Tao.Platform.Windows.xml
+H:\Study\графика 4 сем\5lab\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+H:\Study\графика 4 сем\5lab\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+H:\Study\графика 4 сем\5lab\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+H:\Study\графика 4 сем\6pr\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+H:\Study\графика 4 сем\6pr\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+H:\Study\графика 4 сем\6pr\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+H:\Study\графика 4 сем\6pr\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+H:\Study\графика 4 сем\6pr\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+H:\Study\графика 4 сем\6pr\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+H:\Study\графика 4 сем\6pr\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+H:\Study\графика 4 сем\6pr\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+H:\Study\графика 4 сем\6pr\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+H:\Study\графика 4 сем\6pr\WindowsFormsApp\bin\Debug\Tao.FreeGlut.dll
+H:\Study\графика 4 сем\6pr\WindowsFormsApp\bin\Debug\Tao.OpenGl.dll
+H:\Study\графика 4 сем\6pr\WindowsFormsApp\bin\Debug\Tao.Platform.Windows.dll
+H:\Study\графика 4 сем\6pr\WindowsFormsApp\bin\Debug\Tao.FreeGlut.xml
+H:\Study\графика 4 сем\6pr\WindowsFormsApp\bin\Debug\Tao.OpenGl.xml
+H:\Study\графика 4 сем\6pr\WindowsFormsApp\bin\Debug\Tao.Platform.Windows.xml
+H:\Study\графика 4 сем\6pr\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+D:\Desktop\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+D:\Desktop\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+D:\Desktop\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+D:\Desktop\WindowsFormsApp\bin\Debug\Tao.FreeGlut.dll
+D:\Desktop\WindowsFormsApp\bin\Debug\Tao.OpenGl.dll
+D:\Desktop\WindowsFormsApp\bin\Debug\Tao.Platform.Windows.dll
+D:\Desktop\WindowsFormsApp\bin\Debug\Tao.FreeGlut.xml
+D:\Desktop\WindowsFormsApp\bin\Debug\Tao.OpenGl.xml
+D:\Desktop\WindowsFormsApp\bin\Debug\Tao.Platform.Windows.xml
+D:\Desktop\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+D:\Desktop\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+D:\Desktop\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+D:\Desktop\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+D:\Desktop\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\Desktop\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+D:\Desktop\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+D:\Desktop\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+D:\Desktop\Учеба\КГ\Практика 6\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+D:\Desktop\Учеба\КГ\Практика 6\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+D:\Desktop\Учеба\КГ\Практика 6\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+D:\Desktop\Учеба\КГ\Практика 6\WindowsFormsApp\bin\Debug\Tao.FreeGlut.dll
+D:\Desktop\Учеба\КГ\Практика 6\WindowsFormsApp\bin\Debug\Tao.OpenGl.dll
+D:\Desktop\Учеба\КГ\Практика 6\WindowsFormsApp\bin\Debug\Tao.Platform.Windows.dll
+D:\Desktop\Учеба\КГ\Практика 6\WindowsFormsApp\bin\Debug\Tao.FreeGlut.xml
+D:\Desktop\Учеба\КГ\Практика 6\WindowsFormsApp\bin\Debug\Tao.OpenGl.xml
+D:\Desktop\Учеба\КГ\Практика 6\WindowsFormsApp\bin\Debug\Tao.Platform.Windows.xml
+D:\Desktop\Учеба\КГ\Практика 6\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+D:\Desktop\Учеба\КГ\Практика 6\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Учеба\КГ\Практика 6\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+D:\Desktop\Учеба\КГ\Практика 6\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+D:\Desktop\Учеба\КГ\Практика 6\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+D:\Desktop\Учеба\КГ\Практика 6\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\Desktop\Учеба\КГ\Практика 6\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+D:\Desktop\Учеба\КГ\Практика 6\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+D:\Desktop\Учеба\КГ\Практика 6\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
