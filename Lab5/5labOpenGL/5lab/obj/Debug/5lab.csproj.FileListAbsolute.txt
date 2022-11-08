@@ -1,0 +1,54 @@
+C:\Users\Melly\source\repos\5lab\5lab\bin\Debug\5lab.exe.config
+C:\Users\Melly\source\repos\5lab\5lab\bin\Debug\5lab.exe
+C:\Users\Melly\source\repos\5lab\5lab\bin\Debug\5lab.pdb
+C:\Users\Melly\source\repos\5lab\5lab\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Melly\source\repos\5lab\5lab\bin\Debug\Tao.OpenGl.dll
+C:\Users\Melly\source\repos\5lab\5lab\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Melly\source\repos\5lab\5lab\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Melly\source\repos\5lab\5lab\bin\Debug\Tao.OpenGl.xml
+C:\Users\Melly\source\repos\5lab\5lab\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Melly\source\repos\5lab\5lab\obj\Debug\5lab.csproj.AssemblyReference.cache
+C:\Users\Melly\source\repos\5lab\5lab\obj\Debug\5lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\Melly\source\repos\5lab\5lab\obj\Debug\_5lab.Form1.resources
+C:\Users\Melly\source\repos\5lab\5lab\obj\Debug\_5lab.Properties.Resources.resources
+C:\Users\Melly\source\repos\5lab\5lab\obj\Debug\5lab.csproj.GenerateResource.cache
+C:\Users\Melly\source\repos\5lab\5lab\obj\Debug\5lab.csproj.CoreCompileInputs.cache
+C:\Users\Melly\source\repos\5lab\5lab\obj\Debug\5lab.csproj.CopyComplete
+C:\Users\Melly\source\repos\5lab\5lab\obj\Debug\5lab.exe
+C:\Users\Melly\source\repos\5lab\5lab\obj\Debug\5lab.pdb
+D:\Desktop\5labOpenGL\5lab\bin\Debug\5lab.exe.config
+D:\Desktop\5labOpenGL\5lab\bin\Debug\5lab.exe
+D:\Desktop\5labOpenGL\5lab\bin\Debug\5lab.pdb
+D:\Desktop\5labOpenGL\5lab\bin\Debug\Tao.FreeGlut.dll
+D:\Desktop\5labOpenGL\5lab\bin\Debug\Tao.OpenGl.dll
+D:\Desktop\5labOpenGL\5lab\bin\Debug\Tao.Platform.Windows.dll
+D:\Desktop\5labOpenGL\5lab\bin\Debug\Tao.FreeGlut.xml
+D:\Desktop\5labOpenGL\5lab\bin\Debug\Tao.OpenGl.xml
+D:\Desktop\5labOpenGL\5lab\bin\Debug\Tao.Platform.Windows.xml
+D:\Desktop\5labOpenGL\5lab\obj\Debug\5lab.csproj.AssemblyReference.cache
+D:\Desktop\5labOpenGL\5lab\obj\Debug\5lab.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\5labOpenGL\5lab\obj\Debug\_5lab.Form1.resources
+D:\Desktop\5labOpenGL\5lab\obj\Debug\_5lab.Properties.Resources.resources
+D:\Desktop\5labOpenGL\5lab\obj\Debug\5lab.csproj.GenerateResource.cache
+D:\Desktop\5labOpenGL\5lab\obj\Debug\5lab.csproj.CoreCompileInputs.cache
+D:\Desktop\5labOpenGL\5lab\obj\Debug\5lab.csproj.CopyComplete
+D:\Desktop\5labOpenGL\5lab\obj\Debug\5lab.exe
+D:\Desktop\5labOpenGL\5lab\obj\Debug\5lab.pdb
+D:\Desktop\Учеба\КГ\Лаба 5\5labOpenGL\5lab\bin\Debug\5lab.exe.config
+D:\Desktop\Учеба\КГ\Лаба 5\5labOpenGL\5lab\bin\Debug\5lab.exe
+D:\Desktop\Учеба\КГ\Лаба 5\5labOpenGL\5lab\bin\Debug\5lab.pdb
+D:\Desktop\Учеба\КГ\Лаба 5\5labOpenGL\5lab\bin\Debug\Tao.FreeGlut.dll
+D:\Desktop\Учеба\КГ\Лаба 5\5labOpenGL\5lab\bin\Debug\Tao.OpenGl.dll
+D:\Desktop\Учеба\КГ\Лаба 5\5labOpenGL\5lab\bin\Debug\Tao.Platform.Windows.dll
+D:\Desktop\Учеба\КГ\Лаба 5\5labOpenGL\5lab\bin\Debug\Tao.FreeGlut.xml
+D:\Desktop\Учеба\КГ\Лаба 5\5labOpenGL\5lab\bin\Debug\Tao.OpenGl.xml
+D:\Desktop\Учеба\КГ\Лаба 5\5labOpenGL\5lab\bin\Debug\Tao.Platform.Windows.xml
+D:\Desktop\Учеба\КГ\Лаба 5\5labOpenGL\5lab\obj\Debug\5lab.csproj.AssemblyReference.cache
+D:\Desktop\Учеба\КГ\Лаба 5\5labOpenGL\5lab\obj\Debug\5lab.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Учеба\КГ\Лаба 5\5labOpenGL\5lab\obj\Debug\_5lab.Form1.resources
+D:\Desktop\Учеба\КГ\Лаба 5\5labOpenGL\5lab\obj\Debug\_5lab.Properties.Resources.resources
+D:\Desktop\Учеба\КГ\Лаба 5\5labOpenGL\5lab\obj\Debug\5lab.csproj.GenerateResource.cache
+D:\Desktop\Учеба\КГ\Лаба 5\5labOpenGL\5lab\obj\Debug\5lab.csproj.CoreCompileInputs.cache
+D:\Desktop\Учеба\КГ\Лаба 5\5labOpenGL\5lab\obj\Debug\5lab.csproj.CopyComplete
+D:\Desktop\Учеба\КГ\Лаба 5\5labOpenGL\5lab\obj\Debug\5lab.exe
+D:\Desktop\Учеба\КГ\Лаба 5\5labOpenGL\5lab\obj\Debug\5lab.pdb

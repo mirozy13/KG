@@ -1,0 +1,52 @@
+C:\Users\Kotya\Desktop\5pr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Kotya\Desktop\5pr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Kotya\Desktop\5pr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Kotya\Desktop\5pr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Kotya\Desktop\5pr\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Kotya\Desktop\5pr\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Kotya\Desktop\5pr\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Kotya\Desktop\5pr\WindowsFormsApp1\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Kotya\Desktop\5pr\WindowsFormsApp1\bin\Debug\Tao.OpenGl.dll
+C:\Users\Kotya\Desktop\5pr\WindowsFormsApp1\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Kotya\Desktop\5pr\WindowsFormsApp1\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Kotya\Desktop\5pr\WindowsFormsApp1\bin\Debug\Tao.OpenGl.xml
+C:\Users\Kotya\Desktop\5pr\WindowsFormsApp1\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Kotya\Desktop\5pr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Kotya\Desktop\5pr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Kotya\Desktop\5pr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Desktop\WindowsFormsApp1\bin\Debug\Tao.FreeGlut.dll
+D:\Desktop\WindowsFormsApp1\bin\Debug\Tao.OpenGl.dll
+D:\Desktop\WindowsFormsApp1\bin\Debug\Tao.Platform.Windows.dll
+D:\Desktop\WindowsFormsApp1\bin\Debug\Tao.FreeGlut.xml
+D:\Desktop\WindowsFormsApp1\bin\Debug\Tao.OpenGl.xml
+D:\Desktop\WindowsFormsApp1\bin\Debug\Tao.Platform.Windows.xml
+D:\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Desktop\Учеба\КГ\Практика 5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Desktop\Учеба\КГ\Практика 5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Desktop\Учеба\КГ\Практика 5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Desktop\Учеба\КГ\Практика 5\WindowsFormsApp1\bin\Debug\Tao.FreeGlut.dll
+D:\Desktop\Учеба\КГ\Практика 5\WindowsFormsApp1\bin\Debug\Tao.OpenGl.dll
+D:\Desktop\Учеба\КГ\Практика 5\WindowsFormsApp1\bin\Debug\Tao.Platform.Windows.dll
+D:\Desktop\Учеба\КГ\Практика 5\WindowsFormsApp1\bin\Debug\Tao.FreeGlut.xml
+D:\Desktop\Учеба\КГ\Практика 5\WindowsFormsApp1\bin\Debug\Tao.OpenGl.xml
+D:\Desktop\Учеба\КГ\Практика 5\WindowsFormsApp1\bin\Debug\Tao.Platform.Windows.xml
+D:\Desktop\Учеба\КГ\Практика 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Desktop\Учеба\КГ\Практика 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Учеба\КГ\Практика 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Desktop\Учеба\КГ\Практика 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Desktop\Учеба\КГ\Практика 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Desktop\Учеба\КГ\Практика 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Desktop\Учеба\КГ\Практика 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Desktop\Учеба\КГ\Практика 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Desktop\Учеба\КГ\Практика 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
