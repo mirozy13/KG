@@ -66,3 +66,21 @@ D:\Desktop\Учеба\КГ\Практика 6\WindowsFormsApp\obj\Debug\WindowsF
 D:\Desktop\Учеба\КГ\Практика 6\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
 D:\Desktop\Учеба\КГ\Практика 6\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
 D:\Desktop\Учеба\КГ\Практика 6\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+D:\Desktop\Учеба\KG\pr6\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+D:\Desktop\Учеба\KG\pr6\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+D:\Desktop\Учеба\KG\pr6\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+D:\Desktop\Учеба\KG\pr6\WindowsFormsApp\bin\Debug\Tao.FreeGlut.dll
+D:\Desktop\Учеба\KG\pr6\WindowsFormsApp\bin\Debug\Tao.OpenGl.dll
+D:\Desktop\Учеба\KG\pr6\WindowsFormsApp\bin\Debug\Tao.Platform.Windows.dll
+D:\Desktop\Учеба\KG\pr6\WindowsFormsApp\bin\Debug\Tao.FreeGlut.xml
+D:\Desktop\Учеба\KG\pr6\WindowsFormsApp\bin\Debug\Tao.OpenGl.xml
+D:\Desktop\Учеба\KG\pr6\WindowsFormsApp\bin\Debug\Tao.Platform.Windows.xml
+D:\Desktop\Учеба\KG\pr6\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+D:\Desktop\Учеба\KG\pr6\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Учеба\KG\pr6\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+D:\Desktop\Учеба\KG\pr6\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+D:\Desktop\Учеба\KG\pr6\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+D:\Desktop\Учеба\KG\pr6\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\Desktop\Учеба\KG\pr6\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+D:\Desktop\Учеба\KG\pr6\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+D:\Desktop\Учеба\KG\pr6\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb

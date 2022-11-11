@@ -28,57 +28,62 @@ namespace WindowsFormsApp
             Gl.glLoadIdentity();
             Gl.glFrustum(-1f, 1f, -1f, 1f, 3f, 10f);
             Gl.glMatrixMode(Gl.GL_MODELVIEW);
-            Gl.glTranslatef(0f, 0f, -10f);
+            Gl.glTranslatef(0f, 0f, -8f);
             draw1();
             simpleOpenGlControl1.Invalidate();
         }
         
         void draw1()
         {
-            //front
             Gl.glBegin(Gl.GL_TRIANGLES);
-            Gl.glColor4f(0.0f, 1.0f, 0.5f, 0.0f);
-            Gl.glVertex3f(0.0f, 0.5f, 0.0f);//вершина
-            Gl.glColor4f(0.0f, 1.0f, 0.5f, 0.0f);
-            Gl.glVertex3f(-0.5f, -0.5f, 0.5f);//2
-            Gl.glColor4f(1.0f, 1.0f, 1.0f, 0.0f);
-            Gl.glVertex3f(0.5f, -0.5f, 0.5f);//3
-            // right
-            Gl.glColor4f(0.0f, 1.0f, 0.5f, 0.0f);
-            Gl.glVertex3f(0.0f, 0.5f, 0.0f);//вершина
-            Gl.glColor4f(1.0f, 1.0f, 1.0f, 0.0f);
-            Gl.glVertex3f(0.5f, -0.5f, -0.5f);
-            Gl.glColor4f(0.0f, 1.0f, 0.5f, 0.0f);
-            Gl.glVertex3f(0.5f, -0.5f, 0.5f);
-            // back
-            Gl.glColor4f(0.0f, 1.0f, 0.5f, 0.0f);
-            Gl.glVertex3f(0.0f, 0.5f, 0.0f);//вершина
-            Gl.glColor4f(0.0f, 1.0f, 0.5f, 0.0f);
-            Gl.glVertex3f(0.5f, -0.5f, -0.5f);
-            Gl.glColor4f(1.0f, 1.0f, 1.0f, 0.0f);
-            Gl.glVertex3f(-0.5f, -0.5f, -0.5f);
-            // left
-            Gl.glColor4f(0.0f, 1.0f, 0.5f, 0.0f);
-            Gl.glVertex3f(0.0f, 0.5f, 0.0f);//вершина
-            Gl.glColor4f(1.0f, 1.0f, 1.0f, 0.0f);
-            Gl.glVertex3f(-0.5f, -0.5f, 0.5f);
-            Gl.glColor4f(0.0f, 1.0f, 0.5f, 0.0f);
-            Gl.glVertex3f(-0.5f, -0.5f, -0.5f);//1
+            Gl.glColor4f(1.0f, 0.0f, 0.0f, 0.0f);
+            Gl.glVertex3f(0.0f, 0.0f, 0.7f);//вершина
+            Gl.glColor4f(1.0f, 0.0f, 0.0f, 0.0f);
+            Gl.glVertex3f(-0.48f, 0.15f, 0f);//2
+            Gl.glColor4f(1.0f, 0.0f, 0.0f, 0.0f);
+            Gl.glVertex3f(0f, 0.5f, 0f);//3
+            
+            Gl.glColor4f(1.0f, 1.0f, 0.0f, 0.0f);
+            Gl.glVertex3f(0.0f, 0.0f, 0.7f);//вершина
+            Gl.glColor4f(1.0f, 1.0f, 0.0f, 0.0f);
+            Gl.glVertex3f(0f, 0.5f, 0f);
+            Gl.glColor4f(1.0f, 1.0f, 0.0f, 0.0f);
+            Gl.glVertex3f(0.48f, 0.15f, 0f);
+            
+            Gl.glColor4f(1.0f, 0.0f, 1.0f, 0.0f);
+            Gl.glVertex3f(0.0f, 0.0f, 0.7f);//вершина
+            Gl.glColor4f(1.0f, 0.0f, 1.0f, 0.0f);
+            Gl.glVertex3f(0.48f, 0.15f, 0f);
+            Gl.glColor4f(1.0f, 0.0f, 1.0f, 0.0f);
+            Gl.glVertex3f(0.29f, -0.4f, 0f);
 
-            //bottom
-            Gl.glColor4f(0.0f, 1.0f, 0.5f, 0.0f);
-            Gl.glVertex3f(0.5f, -0.5f, 0.5f);//3
-            Gl.glColor4f(1.0f, 1.0f, 1.0f, 0.0f);
-            Gl.glVertex3f(-0.5f, -0.5f, 0.5f);//2
-            Gl.glColor4f(0.0f, 1.0f, 0.5f, 0.0f);
-            Gl.glVertex3f(-0.5f, -0.5f, -0.5f);//1
+            Gl.glColor4f(0.0f, 1.0f, 1.0f, 1.0f);
+            Gl.glVertex3f(0.0f, 0.0f, 0.7f);//вершина
+            Gl.glColor4f(0.0f, 1.0f, 1.0f, 1.0f);
+            Gl.glVertex3f(0.29f, -0.4f, 0f);
+            Gl.glColor4f(0.0f, 1.0f, 1.0f, 1.0f);
+            Gl.glVertex3f(-0.29f, -0.4f, 0f);//1
 
-            Gl.glColor4f(1.0f, 1.0f, 1.0f, 0.0f);
-            Gl.glVertex3f(0.5f, -0.5f, -0.5f);
-            Gl.glColor4f(0.0f, 1.0f, 0.5f, 0.0f);
-            Gl.glVertex3f(0.5f, -0.5f, 0.5f);
-            Gl.glColor4f(0.0f, 1.0f, 0.5f, 0.0f);
-            Gl.glVertex3f(-0.5f, -0.5f, -0.5f);
+            Gl.glColor4f(1.0f, 0.5f, 0.0f, 0.0f);
+            Gl.glVertex3f(0.0f, 0.0f, 0.7f);//3
+            Gl.glColor4f(1.0f, 0.5f, 0.0f, 0.0f);
+            Gl.glVertex3f(-0.29f, -0.4f, 0f);//2
+            Gl.glColor4f(1.0f, 0.5f, 0.0f, 0.0f);
+            Gl.glVertex3f(-0.48f, 0.15f, 0f);//1
+            Gl.glEnd();
+
+            Gl.glBegin(Gl.GL_POLYGON);
+            Gl.glColor4f(0.0f, 0.0f, 1.0f, 0.0f);
+            Gl.glVertex3f(-0.48f, 0.15f, 0f);
+            Gl.glColor4f(0.0f, 0.0f, 1.0f, 0.0f);
+            Gl.glVertex3f(0f, 0.5f, 0f);
+            Gl.glColor4f(0.0f, 0.0f, 1.0f, 0.0f);
+            Gl.glVertex3f(0.48f, 0.15f, 0f);
+            Gl.glColor4f(0.0f, 0.0f, 1.0f, 0.0f);
+            Gl.glVertex3f(0.29f, -0.4f, 0f);
+            Gl.glColor4f(0.0f, 0.0f, 1.0f, 0.0f);
+            Gl.glVertex3f(-0.29f, -0.4f, 0f);
+            Gl.glColor4f(0.0f, 0.0f, 1.0f, 0.0f);
             Gl.glEnd();
             simpleOpenGlControl1.Invalidate();
         }
