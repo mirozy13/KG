@@ -25,11 +25,10 @@ namespace WindowsFormsApp
             Gl.glClear(Gl.GL_COLOR_BUFFER_BIT);
             Gl.glClear(Gl.GL_DEPTH_BUFFER_BIT);
             Gl.glEnable(Gl.GL_DEPTH_TEST);
-            Gl.glMatrixMode(Gl.GL_PROJECTION);//устанавливаем текущей матрицу проекций
-            Gl.glFrustum(-1, 1, -1, 1, 0, 10);//задаем перспективу
-            Gl.glMatrixMode(Gl.GL_MODELVIEW);//устанавливаем текущей видовую матрицу
-            Gl.glTranslatef(0f, 0f, -3f);//сдвигаем фигуру в центр - после проецирования из
-           
+            Gl.glMatrixMode(Gl.GL_PROJECTION);
+            Gl.glFrustum(-1, 1, -1, 1, 0, 10);
+            Gl.glMatrixMode(Gl.GL_MODELVIEW);
+            Gl.glTranslatef(0f, 0f, -3f); 
             Gl.glLoadIdentity();
             Gl.glMatrixMode(Gl.GL_MODELVIEW);
             Gl.glPushMatrix();
@@ -40,7 +39,6 @@ namespace WindowsFormsApp
 
         void draw1()
         {
-
             //пирамида
             Gl.glPolygonMode(Gl.GL_FRONT_AND_BACK, Gl.GL_FILL);
 
@@ -48,9 +46,9 @@ namespace WindowsFormsApp
             Gl.glColor4f(1.0f, 0.0f, 0.0f, 0.0f);
             Gl.glVertex3f(0.0f, 0.0f, 0.4f);//вершина
             Gl.glColor4f(1.0f, 0.0f, 0.0f, 0.0f);
-            Gl.glVertex3f(-0.48f, 0.15f, -0.3f);//2
+            Gl.glVertex3f(-0.48f, 0.15f, -0.3f);
             Gl.glColor4f(1.0f, 0.0f, 0.0f, 0.0f);
-            Gl.glVertex3f(0f, 0.5f, -0.3f);//3
+            Gl.glVertex3f(0f, 0.5f, -0.3f);
 
             Gl.glColor4f(1.0f, 1.0f, 0.0f, 0.0f);
             Gl.glVertex3f(0.0f, 0.0f, 0.4f);//вершина
@@ -71,14 +69,14 @@ namespace WindowsFormsApp
             Gl.glColor4f(0.0f, 1.0f, 1.0f, 1.0f);
             Gl.glVertex3f(0.29f, -0.4f, -0.3f);
             Gl.glColor4f(0.0f, 1.0f, 1.0f, 1.0f);
-            Gl.glVertex3f(-0.29f, -0.4f, -0.3f);//1
+            Gl.glVertex3f(-0.29f, -0.4f, -0.3f);
 
             Gl.glColor4f(1.0f, 0.5f, 0.0f, 0.0f);
-            Gl.glVertex3f(0.0f, 0.0f, 0.4f);//3
+            Gl.glVertex3f(0.0f, 0.0f, 0.4f);
             Gl.glColor4f(1.0f, 0.5f, 0.0f, 0.0f);
-            Gl.glVertex3f(-0.29f, -0.4f, -0.3f);//2
+            Gl.glVertex3f(-0.29f, -0.4f, -0.3f);
             Gl.glColor4f(1.0f, 0.5f, 0.0f, 0.0f);
-            Gl.glVertex3f(-0.48f, 0.15f, -0.3f);//1
+            Gl.glVertex3f(-0.48f, 0.15f, -0.3f);
             Gl.glEnd();
 
             Gl.glBegin(Gl.GL_POLYGON);
@@ -99,12 +97,10 @@ namespace WindowsFormsApp
         void draw()
         {
             //куб
-
             Gl.glClear(Gl.GL_COLOR_BUFFER_BIT | Gl.GL_DEPTH_BUFFER_BIT);
             Gl.glBlendFunc(Gl.GL_SRC_ALPHA, Gl.GL_ONE_MINUS_SRC_ALPHA);
             Gl.glColor3f(0, 0, 0);
             Gl.glPolygonMode(Gl.GL_FRONT_AND_BACK, Gl.GL_LINE);
-
             Gl.glBegin(Gl.GL_POLYGON);
             Gl.glVertex3f(0.5f, 0.5f, -0.5f);
             Gl.glVertex3f(-0.5f, 0.5f, -0.5f);
@@ -145,12 +141,10 @@ namespace WindowsFormsApp
             simpleOpenGlControl1.Invalidate();
         }
        
-
         private void paint(object sender, PaintEventArgs e)
         {
 
         }
-
         private void rotation(float x, float y, float z)
         {
             Gl.glClear(Gl.GL_COLOR_BUFFER_BIT);
@@ -180,7 +174,6 @@ namespace WindowsFormsApp
             if (e.KeyCode == Keys.Enter)
                 timer1.Start();
         }
-
         private void timer1_Tick(object sender, EventArgs e)
         {
             rotation(1f, 1f, 1f);
