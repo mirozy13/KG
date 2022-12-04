@@ -98,7 +98,6 @@ namespace WindowsFormsApp
         {
             //куб
             Gl.glClear(Gl.GL_COLOR_BUFFER_BIT | Gl.GL_DEPTH_BUFFER_BIT);
-            Gl.glBlendFunc(Gl.GL_SRC_ALPHA, Gl.GL_ONE_MINUS_SRC_ALPHA);
             Gl.glColor3f(0, 0, 0);
             Gl.glPolygonMode(Gl.GL_FRONT_AND_BACK, Gl.GL_LINE);
             Gl.glBegin(Gl.GL_POLYGON);
@@ -137,7 +136,6 @@ namespace WindowsFormsApp
             Gl.glVertex3f(0.5f, -0.5f, 0.5f);
             Gl.glVertex3f(0.5f, -0.5f, -0.5f);
             Gl.glEnd();
-
             simpleOpenGlControl1.Invalidate();
         }
        
